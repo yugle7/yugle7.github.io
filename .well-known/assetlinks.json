@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.yugle7.whcut",
+      "sha256_cert_fingerprints": [
+        "9F:2F:9C:A4:D2:32:A3:E2:73:2F:1A:56:F1:8B:47:E8:2B:A4:60:61:E4:F1:50:0B:99:B2:C3:89:91:71:14:06"
+      ]
+    }
+  }
+]
