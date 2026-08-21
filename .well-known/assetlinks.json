@@ -8,7 +8,8 @@
       "namespace": "android_app",
       "package_name": "io.github.yugle7.whcut",
       "sha256_cert_fingerprints": [
-        "9F:2F:9C:A4:D2:32:A3:E2:73:2F:1A:56:F1:8B:47:E8:2B:A4:60:61:E4:F1:50:0B:99:B2:C3:89:91:71:14:06"
+        "9F:2F:9C:A4:D2:32:A3:E2:73:2F:1A:56:F1:8B:47:E8:2B:A4:60:61:E4:F1:50:0B:99:B2:C3:89:91:71:14:06",
+        "E0:FF:29:D3:25:38:E0:AE:E7:8D:B2:97:EA:2D:BB:24:C0:AD:0C:18:4C:05:A4:50:E1:7E:14:1D:63:56:84:9F"
       ]
     }
   }
