@@ -13,5 +13,14 @@
         "97:3D:8A:86:D2:6D:4C:93:22:94:CF:9D:0A:48:93:C2:4A:80:40:34:16:9F:92:C1:73:DD:EE:B6:22:24:92:8A"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.yugle7.kakaha",
+      "sha256_cert_fingerprints":
+        ["54:D1:4F:EB:9C:F3:A2:CE:0A:6D:D6:6D:3C:5B:32:0E:F9:CB:8E:6C:50:06:F7:0A:5F:15:07:B0:4B:AA:39:D1"]
+    }
   }
 ]
